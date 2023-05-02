@@ -112,7 +112,10 @@
         "Name": "台灣資料科學協會",
         "Main Website": {"link": {"title": "Link", "source": "http://foundation.datasci.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/twdsconf/"}}
-      }]
+      }, {
+        "Name": "Agile台中",
+        "Main Website": {"link": {"title": "Link", "source": "https://www.facebook.com/groups/Agile.Taichung/"}},
+        "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/groups/Agile.Taichung/"}}]
     }
   }]
 }
